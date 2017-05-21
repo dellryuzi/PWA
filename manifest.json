@@ -1,0 +1,23 @@
+{
+  "name": "PWA Project",
+  "short_name": "PWA Project",
+  "start_url": "./index.html?utm=homescreen",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#f5f5f5",
+
+  "icons": [{
+      "src": "images/b2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+      "src": "images/b3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/b4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+
+}
