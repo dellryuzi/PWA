@@ -1,11 +1,22 @@
 {
   "name": "tes_pwa",
   "version": "1.0.0",
-  "description": "",
   "main": "sw.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dellryuzi/PWA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dellryuzi/PWA/issues"
+  },
+  "homepage": "https://github.com/dellryuzi/PWA#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
